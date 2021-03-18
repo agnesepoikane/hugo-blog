@@ -5,7 +5,7 @@ weight: 8
 ---
 <span style="color: rgb(0, 184, 212);"></span>
 
-Esmu socioloģe, datu analītiķe, sociālā mentore un minimāliste.
+Esmu socioloģe, datu analītiķe un sociālā mentore. Minimāliste.
 
 Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Padziļināti interesējos par klīnisko socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās intereses</span> saistītas ar sociālo problēmu analīzi un vadību, sociālajām inovācijām (SocialTech) un sociālās ietekmes mērīšanu.
 
