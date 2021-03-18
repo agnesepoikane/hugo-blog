@@ -1,4 +1,4 @@
-baseURL                          = "https://agnesepoikane.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://agnesepoikane.github.io./"   # Your domain name. Must end with "/"
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for 
 #multilingual sites
