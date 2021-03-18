@@ -9,9 +9,9 @@ resources:
 
 ### Pakalpojumi:
 - tirgus izpēte un konkurentu analīze
-- sociālās ietekmes mērīšana
 - datos balstītu stāstu veidošana
-- digitālo platformu datu analīze (mobilās aplikācijas, mājaslapas, e-veikali u.tml.)
+- digitālo platformu datu analīze (mobilās aplikācijas, mājaslapas, e-veikali u.tml.). 
+- dalība projektos, kas saistīti ar sociālās ietekmes mērīšanu.
 
 Lai vienotos par sadarbības nosacījumiem (termiņi, izmaksas), aicinu sazināties ar mani, rakstot uz e-pastu agnesepoikane[at]inbox.lv.
 
