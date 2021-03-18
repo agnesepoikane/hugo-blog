@@ -34,7 +34,6 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm i -g postcss postcss-cli autoprefixer
-		
 
       - name: Build
         run: hugo --minify
