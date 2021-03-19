@@ -7,7 +7,7 @@ weight: 8
 
 Esmu socioloģe, datu analītiķe un sociālā mentore. Minimāliste.
 
-Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Padziļināti interesējos par klīnisko socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās intereses</span> saistītas ar sociālo problēmu analīzi un vadību, sociālajām inovācijām un sociālās ietekmes mērīšanu.
+Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Padziļināti interesējos par klīnisko socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās intereses</span> saistītas ar sociālo problēmu analīzi un vadību, sociālās ietekmes mērīšanu un sociālajām inovācijām.
 
 <span style="color: rgb(0, 184, 212);">Izglītība:</span> Socioloģija (2011, bakalaura grāds), Starpkultūru attiecības (2013, maģistra grāds), Publiskā pārvalde (2017, maģistra grāds). 
 
