@@ -9,6 +9,6 @@ resources:
 
 ### Pakalpojumi:
 
-- dalība pētījumos un projektos
+- līdzdalība pētījumos un politikas dokumentu un normatīvo aktu izstrādē
 - konsultācijas
 
