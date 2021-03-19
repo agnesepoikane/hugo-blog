@@ -1,7 +1,6 @@
-baseURL                          = "https://agnesepoikane.github.io/hugo-blog/"   # Your domain name. Must end with "/"
-theme                            = "hugo-theme-introduction"
-DefaultContentLanguage           = "en"                    # Default language for 
-#multilingual sites
+baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+theme                            = "introduction"
+DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
@@ -15,7 +14,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     email                        = "agnesepoikane[at]inbox.lv"   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
-    #plausible                   = true                    # Use Plausible analytics (requires an account at Plausible.io)
+    # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
 
     # Configure the home page
     [params.home]
@@ -25,8 +24,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         allPostsArchiveFormat    = true                    # show all posts in an archive format
         numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
-        timeZone                 = "Europe/Riga"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-        timeFormat               = "en-UK"                 # Language specific format to use
+        timeZone                 = "America/Los_Angeles"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+        timeFormat               = "en-US"                 # Language specific format to use
     [params.projects]
         useTwoColumns            = false                   # Use a layout with two columns instead of three
 
@@ -35,7 +34,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
         twitter                  = true
         facebook                 = true
         pinterest                = false
-
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
@@ -61,9 +59,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
 
-
 # If you don't want to use the default menu, you can define one by yourself
-#[[menu.main]]
+# [[menu.main]]
 #     name    = "Home"
 #     url     = "/"
 #     weight  = 0
@@ -105,6 +102,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
+
 
 #    [languages.es]
 #        languageName     = "Русский"
