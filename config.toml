@@ -55,6 +55,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "instagram" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
+        url   = "https://www.goodreads.com/user/show/22833723-agnese"
+        icon  = "goodreads-g" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
         url = "mailto:agnesepoikane@inbox.lv"  # For a direct email link, use "mailto:test@example.org".
         icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
@@ -98,9 +102,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Agnese Poikane"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Agnese Poikāne, socioloģe un datu analītiķe"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
 

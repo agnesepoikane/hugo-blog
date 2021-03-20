@@ -8,8 +8,9 @@ resources:
 ---
 
 ### Pakalpojumi:
-- tirgus izpēte un konkurentu analīze
 - datos balstītu stāstu veidošana
+- tirgus izpēte un konkurentu analīze
+- dažāda veida socioloģiskās informācijas un statistikas datu apstrāde (informācijas ievade un / vai apkopošana, primāro datu tīrīšana, interviju transkripcija u.tml.)
 - digitālo platformu datu analīze (mobilās aplikācijas, mājaslapas, e-veikali u.tml.). 
 - dalība projektos, kas saistīti ar sociālās ietekmes mērīšanu.
 

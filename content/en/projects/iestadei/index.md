@@ -9,6 +9,7 @@ resources:
 
 ### Pakalpojumi:
 
-- līdzdalība pētījumos un politikas dokumentu un normatīvo aktu izstrādē
-- konsultācijas
+- datos balstītu stāstu veidošana
+- līdzdalība pētījumos, politikas dokumentu un normatīvo aktu izstrādē.
+
 
