@@ -16,7 +16,7 @@ resources:
 
 ### Konsultācijas 
 
-- Konsultācijas par minimālismu, fiziskās un digitālās telpas organizēšanu, apzinātību un jaunu ieradumu veidošanu. Konsultācijas cena: 30 EUR / 50 minūtes.
+- Konsultācijas par minimālismu, jaunu ieradumu veidošanu, apzinātību un domāšanas kļūdām. Konsultācijas cena: 30 EUR / 50 minūtes.
 
 Jautājumus par šīm tēmām droši varat uzdot man arī sociālo tīklu profilos. 
 
