@@ -5,7 +5,7 @@ weight: 8
 ---
 <span style="color: rgb(0, 184, 212);"></span>
 
-Esmu socioloģe, datu analītiķe un koučs (izaugsmes veicinātāja).
+Esmu socioloģe, datu analītiķe un izaugsmes veicinātāja (koučs).
 
 Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Padziļināti interesējos par klīnisko socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās intereses </span> saistītas ar sociālo problēmu analīzi un vadību, sociālās ietekmes mērīšanu un sociālajām inovācijām.
 
