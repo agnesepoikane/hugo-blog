@@ -13,7 +13,7 @@ resources:
 
 - Atskaitīšanās partnera pakalpojumi. 25 EUR / mēnesī, viena tikšanās nedēļā (līdz 50 minūtēm).
 
-Sociāli mazāk aizsargāto grupu pārstāvjiem (vardarbības vai cilvēktirdzniecības upuriem, patvēruma meklētājiem, bijušajiem ieslodzītajiem, ilgstošajiem bezdarbniekiem u.c.) minētie pakalpojumi tiek nodrošināti par simbolisku samaksu. 
+Sociālās atstumtības riskam pakļauto grupu pārstāvjiem (vardarbības vai cilvēktirdzniecības upuriem, patvēruma meklētājiem, bijušajiem ieslodzītajiem, ilgstošajiem bezdarbniekiem u.c.) minētie pakalpojumi tiek nodrošināti par simbolisku samaksu. 
 
 
 ### Konsultācijas 
@@ -25,6 +25,6 @@ Jautājumus par šīm tēmām droši varat uzdot man arī sociālo tīklu profil
 
 **Darba valodas:** latviešu, krievu. 
 
-Visi pakalpojumi šobrīd pieejami tikai tiešsaistē, izmantojot `Skype`, `WhatsApp` u.c. platformas.
+Visi pakalpojumi pieejami tiešsaistē, izmantojot `Skype`, `WhatsApp` u.c. platformas.
 
 
