@@ -7,10 +7,10 @@ weight: 8
 
 Esmu socioloģe, datu analītiķe, koučs un atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
 
-Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Padziļināti interesējos par klīnisko socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās intereses </span> saistītas ar sociālo problēmu analīzi un vadību, sociālās ietekmes mērīšanu un sociālajām inovācijām.
+Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās </span> - ar sociālo problēmu analīzi un vadību, sociālās ietekmes mērīšanu, sociālajām inovācijām un datos balstītu personīgo izaugsmi.
 
 <span style="color: rgb(0, 184, 212);">Izglītība:</span> Socioloģija (2011, bakalaura grāds), Starpkultūru attiecības (2013, maģistra grāds), Publiskā pārvalde (2017, maģistra grāds). 
 
 <span style="color: rgb(0, 184, 212);">Papildus izglītība:</span> holistiskais koučings (2019), datu analītika (2020), datu zinātne (2021).
 
-Brīvajā laikā ceļoju, apgūstu arābu valodu, [lasu grāmatas](https://www.goodreads.com/user/show/22833723-agnese) un [fotografēju ielu mākslu](https://www.instagram.com/street.art.photographer/).
+Brīvajā laikā ceļoju, apgūstu arābu valodu, [lasu grāmatas](https://www.goodreads.com/user/show/22833723-agnese) un [fotografēju ielu mākslu](https://www.instagram.com/agnesetravels/).

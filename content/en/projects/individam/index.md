@@ -18,7 +18,7 @@ Sociālās atstumtības riskam pakļauto grupu pārstāvjiem (vardarbības vai c
 
 ### Konsultācijas 
 
-- Individuālās konsultācijas par minimālismu, domāšanas kļūdām un jaunu ieradumu veidošanu. Konsultācijas cena: 40 EUR / 60 minūtes.
+- Individuālās konsultācijas par digitālo minimālismu, domāšanas kļūdām, datos balstītu personīgo izaugsmi un jaunu ieradumu veidošanu. Konsultācijas cena: 40 EUR / 60 minūtes.
 
 Jautājumus par šīm tēmām droši varat uzdot man arī sociālo tīklu profilos. 
 
