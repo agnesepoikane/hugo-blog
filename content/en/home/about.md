@@ -7,7 +7,7 @@ weight: 8
 
 Esmu socioloģe, datu analītiķe, koučs un atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
 
-Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās </span> - ar sociālo problēmu analīzi un vadību, sociālās ietekmes mērīšanu, sociālajām inovācijām un datos balstītu personīgo izaugsmi.
+Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās </span> - ar sociālo problēmu analīzi un vadību, datos balstītu personīgo izaugsmi un sociālajām inovācijām.
 
 <span style="color: rgb(0, 184, 212);">Izglītība:</span> Socioloģija (2011, bakalaura grāds), Starpkultūru attiecības (2013, maģistra grāds), Publiskā pārvalde (2017, maģistra grāds). 
 
