@@ -7,12 +7,18 @@ resources:
           weight: -100
 ---
 
-### Pakalpojumi:
-- datos balstītu stāstu veidošana
+- digitālo platformu (mobilās aplikācijas, mājaslapas, e-veikali u.tml.) datu analīze
+- sociālo procesu un problēmu analīze:
+	- informācijas apkopošana, analīze un interpretācija
+	- datu ieguve, apstrāde un analīze
+- dažāda veida socioloģiskās informācijas un statistikas datu apstrāde:
+	- datu ievade
+	- informācijas apkopošana un strukturēšana
+	- primāro datu tīrīšana
+	- interviju transkripcija u.c.
 - tirgus izpēte un konkurentu analīze
-- dažāda veida socioloģiskās informācijas un statistikas datu apstrāde (informācijas ievade un / vai apkopošana, primāro datu tīrīšana, interviju transkripcija u.tml.)
-- digitālo platformu datu analīze (mobilās aplikācijas, mājaslapas, e-veikali u.tml.). 
-- dalība projektos, kas saistīti ar sociālās ietekmes mērīšanu un / vai atbalsta sniegšanu sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
+- līdzdalība projektos un pētījumos
+- konsultācijas.
 
 Lai vienotos par sadarbības nosacījumiem (termiņi, izmaksas), aicinu sazināties ar mani, rakstot uz e-pastu agnesepoikane[at]inbox.lv.
 

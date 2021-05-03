@@ -7,9 +7,10 @@ resources:
           weight: -100
 ---
 
-### Pakalpojumi:
-
 - datos balstītu stāstu veidošana
-- līdzdalība pētījumos, politikas dokumentu un normatīvo aktu izstrādē.
+- līdzdalība projektos un pētījumos
+- līdzdalība politikas dokumentu un normatīvo aktu izstrādē.
+
+Lai vienotos par sadarbības nosacījumiem (termiņi, izmaksas), aicinu sazināties ar mani, rakstot uz e-pastu agnesepoikane[at]inbox.lv.
 
 

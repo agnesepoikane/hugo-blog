@@ -5,7 +5,7 @@ weight: 8
 ---
 <span style="color: rgb(0, 184, 212);"></span>
 
-Esmu socioloģe, datu analītiķe, koučs un atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
+Esmu socioloģe, datu analītiķe un sociālā mentore jeb atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
 
 Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. <span style="color: rgb(0, 184, 212);">Profesionālās </span> - ar sociālo problēmu analīzi un vadību, datos balstītu personīgo izaugsmi un sociālajām inovācijām.
 
@@ -13,4 +13,4 @@ Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> ir s
 
 <span style="color: rgb(0, 184, 212);">Papildus izglītība:</span> holistiskais koučings (2019), datu analītika (2020), datu zinātne (2021).
 
-Brīvajā laikā ceļoju, apgūstu arābu valodu, [lasu grāmatas](https://www.goodreads.com/user/show/22833723-agnese) un [fotografēju ielu mākslu](https://www.instagram.com/agnesetravels/).
+Brīvajā laikā [lasu](https://www.goodreads.com/user/show/22833723-agnese), ceļoju, apgūstu arābu valodu un [fotografēju ielu mākslu](https://www.instagram.com/agnesetravels/).
