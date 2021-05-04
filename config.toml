@@ -107,14 +107,13 @@ DefaultContentLanguage           = "en"                    # Default language fo
             description  = "Agnese Poikāne, socioloģe un datu analītiķe"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
-
-#    [languages.es]
-#        languageName     = "Русский"
-#        languageCode     = "ru"
-#        contentDir       = "content/ru"
-#        weight           = 1
-#        title            = "Ангнесе Пойкане"
-#        [languages.es.params]
-#            description  = "Описание сайта"
+    [languages.ru]
+        languageName     = "Русский"
+        languageCode     = "ru"
+        contentDir       = "content/ru"
+        weight           = 1
+        title            = "Ангнесе Пойкане"
+        [languages.ru.params]
+            description  = "Ангнесе Пойкане, социолог и аналитик данных"
             # footerText   = ""
 

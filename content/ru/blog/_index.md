@@ -1,6 +1,6 @@
 ---
-title: "Blogs"
+title: "Блог"
 weight: 20
 ---
 
-Sadaļa atrodas izstrādes stadijā. 
+

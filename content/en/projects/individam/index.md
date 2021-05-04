@@ -7,11 +7,11 @@ resources:
           weight: -100
 ---
 
-- <span style="color: rgb(0, 184, 212);">Individuālās konsultācijas</span> par digitālo minimālismu, domāšanas kļūdām, datos balstītu personīgo izaugsmi un jaunu ieradumu veidošanu. Konsultācijas cena: 40 EUR / 60 minūtes.
+- Individuālās konsultācijas par digitālo minimālismu, domāšanas kļūdām, datos balstītu personīgo izaugsmi un jaunu ieradumu veidošanu. Konsultācijas cena: 40 EUR / 60 minūtes.
 
-- <span style="color: rgb(0, 184, 212);">Individuālās koučinga sesijas</span> sociālajiem uzņēmējiem, sociālajiem darbiniekiem, sociālajā sfērā nodarbinātajiem un citiem interesentiem. Sesijas cena: 30 EUR / 50 minūtes.
+- Individuālās koučinga sesijas sociālajiem uzņēmējiem, sociālajiem darbiniekiem, sociālajā sfērā nodarbinātajiem un citiem interesentiem. Sesijas cena: 30 EUR / 50 minūtes.
 
-- <span style="color: rgb(0, 184, 212);">Atskaitīšanās partnera pakalpojumi.</span> 25 EUR / mēnesī, viena tikšanās nedēļā (līdz 50 minūtēm).
+- Atskaitīšanās partnera pakalpojumi. 25 EUR / mēnesī, viena tikšanās nedēļā (līdz 50 minūtēm).
 
 Sociālās atstumtības riskam pakļauto grupu pārstāvjiem (vardarbības vai cilvēktirdzniecības upuriem, patvēruma meklētājiem, bijušajiem ieslodzītajiem, ilgstošajiem bezdarbniekiem u.c.) minētie pakalpojumi tiek nodrošināti par simbolisku samaksu. 
 

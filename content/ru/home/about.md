@@ -4,11 +4,14 @@ image: "profile.jpg"
 weight: 8
 ---
 
+<span style="color: rgb(0, 184, 212);"></span>
 
-* Visualización responsiva a cualquier tipo de pantalla
-* Suave fade-in al cargar el sitio con CSS3
-* Desplazamiento suave a las secciones de la página desde la navegación
-* Temas claros y oscuros
-* Seccion _Projects_ con cualquier número de proyectos: configurable como galería de fotos, popup con detalles, o links externos
-* Seccion _Blog_ con la inclusión opcional de _Latest Post_, en la página principal o como una seccion separada
-* Soporte para HighlightJS
+Я социолог, аналитик данных и социальный ментор.
+
+Мои <span style="color: rgb(0, 184, 212);">академические интересы</span> связаны с такими темами как социология войны, социология насилия и социология девиантного поведения. <span style="color: rgb(0, 184, 212);">Профессиональные </span> - с анализом социальных проблем и социальными инновациями. 
+
+<span style="color: rgb(0, 184, 212);">Образование:</span> Социология (2011, степень бакалавра), Межкультурные отношение (2013, степень магистра), Государственное управление (2017, степень магистра). 
+
+<span style="color: rgb(0, 184, 212);">Дополнительное образование:</span> коучинг (2019), аналитика данных (2020), наука о данных (2021).
+
+В свободное время [читаю книги](https://www.goodreads.com/user/show/22833723-agnese), путешествую, учу арабский и [фотографирую граффити](https://www.instagram.com/agnesetravels/).

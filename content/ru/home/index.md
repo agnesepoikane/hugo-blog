@@ -1,6 +1,14 @@
 ---
-title: "Hola, Soy Introducción"
+title: "Агнесе Пойкане"
 headless: true
 ---
 
-Soy un tema para Hugo
+социолог, аналитик данных, социальный ментор
+</br>
+<span style="color: grey; font-size:0.5em;">решение социальных проблем и личностный рост на основе данных</span>
+
+
+
+
+
+

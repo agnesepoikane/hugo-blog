@@ -1,7 +1,7 @@
 ---
-title: "Contacto"
+title: "Контакты"
 ---
 
-En la sección de Contacto de **Introducción**, tu puedes opcionalmente mostrar la hora actual en tu zona horaria preferida.
+Вы можете связаться со мной по ниже указанному адресу электронной почты. На письма отвечаю по будням с 9:00 до 20:00. 
 
-Esto permite a los visitantes saber que tiempo de respuesta esperan tener cuando te contactan. La zhoa horaria es facilmente configurable en el archivo de configuración.
+
