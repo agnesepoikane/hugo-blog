@@ -105,7 +105,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Agnese Poikane"
         [languages.en.params]
             description  = "Agnese Poikāne, socioloģe un datu analītiķe"   # Max 160 characters show in search results
-            footerText   = "PRIVĀTUMA POLITIKA </br> © Agnese Poikāne"                      # Text to override default footer text (markdown allowed)
+            footerText   = "[PRIVĀTUMA POLITIKA](https://agnesepoikane.com/blog/privatuma-politika/) </br> © Agnese Poikāne"                      # Text to override default footer text (markdown allowed)
 
     [languages.ru]
         languageName     = "Русский"
