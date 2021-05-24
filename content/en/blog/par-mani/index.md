@@ -4,24 +4,27 @@ date: 2021-05-24
 #tags: ["parmani" "izglītība", "kursi", "socioloģija", "datuanalītika"]
 ---
 
-Manas akadēmiskās intereses ir saistītas ar kara, vardarbības un sociālo devianču socioloģiju. Profesionālās - ar digitālo platformu lietotāju uzvedības analīzi, datos balstītu personīgo izaugsmi un sociālo problēmu risināšanu. 
-
 Gandarījumu un piepildījuma sajūtu rodu darbā, kas saistīts ar tādām tēmām kā atkarības slimība, seksuālā vardarbība, cilvēktiesības un bijušo ieslodzīto resocializācija (t.sk., politisko ieslodzīto).
+
+Kā socioloģe un datu analītiķe iesaistos projektos, kas saistīti ar sociālo problēmu risināšanu, analizēju digitālo platformu datus, kā arī sniedzu konsultācijas sociālajiem uzņēmumiem, NVO sektorā nodarbinātajiem un citiem interesentiem. 
+
+Kā sociālā mentore esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociālajā vidē pēc gūtās traumas, šķiršanās, piedzīvotās vardarbības vai ilgstošas sociālās izolētības (izciestā soda, ilgstošas slimības vai bezdarba).
 
 > Katram svētajam ir sava pagātne, katram grēciniekam - nākotne. Oskars Vailds
 
 Ticu, ka katrā cilvēkā mīt neierobežots potenciāls, ko viņš var realizēt, ja blakus ir vismaz viens cilvēks, kurš no sirds tic viņa spējām. Mana misija kā sociālajai mentorei ir nodrošināt šo atbalstu, ticību un drošo vidi, kurā cilvēks var apjaust un sākt realizēt savu potenciālu. 
 
-Esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociālajā vidē pēc gūtās traumas, šķiršanās, piedzīvotās vardarbības vai ilgstošas sociālās izolētības (izciestā soda, ilgstošas slimības vai bezdarba).
 
 ## Pieredze: 
-🔹4+ gadi valsts pārvaldē (klientu vadība, administratīvais darbs)
-
-🔹3+ gadi žurnālistikā
 
 🔹2+ gadi koučingā un mentoringā
 
 🔹2+ gadi NVO sektorā (projektu vadība, administratīvais darbs, datu analītika)
+
+🔹3+ gadi žurnālistikā
+
+🔹4+ gadi valsts pārvaldē (klientu vadība, administratīvais darbs)
+
 
 ## Sabiedriskās aktivitātes
 
@@ -54,6 +57,8 @@ Esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociā
 #### Koučings un sociālais mentorings
 
 🔹[Право не подвергаться пыткам](https://drive.google.com/file/d/1-NAZLSxFDASG_6waRA5QwME7R0fB6ytf/view?usp=sharing) (2020, Amnesty International)
+
+🔹[InjuryPreventionX: Injury Prevention for Children & Teens](https://drive.google.com/file/d/1JMF6NGFFmPDfS8-q0q2lQYw4Jv1Wv9VK/view?usp=sharing) (2020, edX & University of Michigan)
 
 🔹[Eneagrammas meistars](https://drive.google.com/file/d/1LenONRJfkr9uk8n2IMzAyobRtceXQDtP/view?usp=sharing) (2019, ICTA & Vector Rosta)
 
