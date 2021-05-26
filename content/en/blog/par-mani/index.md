@@ -1,6 +1,6 @@
 ---
 title: "Par mani"
-date: 2021-05-24
+date: 2021-05-26
 #tags: ["parmani" "izglītība", "kursi", "socioloģija", "datuanalītika"]
 ---
 
@@ -55,6 +55,8 @@ Ticu, ka katrā cilvēkā mīt neierobežots potenciāls, ko viņš var realizē
 🔹[Datu analītika](https://drive.google.com/file/d/1bFek9US4sUYHL0GJPBk4dqB_B7aL3yPn/view?usp=sharing) (2020, Yandex Practicum)
 
 #### Koučings un sociālais mentorings
+
+🔹[Pusaudžu mentālā veselība - praktisks ievads](https://drive.google.com/file/d/13_BPN93HuaJnONF3188SGRrCwhI4vKXu/view?usp=sharing) (2021, N.S.Konstantinovs & LU Open Minded)
 
 🔹[Право не подвергаться пыткам](https://drive.google.com/file/d/1-NAZLSxFDASG_6waRA5QwME7R0fB6ytf/view?usp=sharing) (2020, Amnesty International)
 
