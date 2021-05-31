@@ -4,15 +4,15 @@ date: 2021-05-26
 #tags: ["parmani" "izglītība", "kursi", "socioloģija", "datuanalītika"]
 ---
 
-Gandarījumu un piepildījuma sajūtu rodu darbā, kas saistīts ar tādām tēmām kā atkarības slimība, seksuālā vardarbība, cilvēktiesības un bijušo ieslodzīto resocializācija (t.sk., politisko ieslodzīto).
+Kā **socioloģe un datu analītiķe** iesaistos projektos, kas saistīti ar sociālo problēmu risināšanu, analizēju digitālo platformu datus, kā arī sniedzu konsultācijas sociālajiem uzņēmumiem, NVO sektorā nodarbinātajiem un citiem interesentiem. 
 
-Kā socioloģe un datu analītiķe iesaistos projektos, kas saistīti ar sociālo problēmu risināšanu, analizēju digitālo platformu datus, kā arī sniedzu konsultācijas sociālajiem uzņēmumiem, NVO sektorā nodarbinātajiem un citiem interesentiem. 
-
-Kā sociālā mentore esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociālajā vidē pēc gūtās traumas, šķiršanās, piedzīvotās vardarbības vai ilgstošas sociālās izolētības (izciestā soda, ilgstošas slimības vai bezdarba).
+Kā **sociālā mentore** esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociālajā vidē pēc gūtās traumas, šķiršanās, piedzīvotās vardarbības vai ilgstošas sociālās izolētības (izciestā soda, ilgstošas slimības vai bezdarba).
 
 > Katram svētajam ir sava pagātne, katram grēciniekam - nākotne. Oskars Vailds
 
 Ticu, ka katrā cilvēkā mīt neierobežots potenciāls, ko viņš var realizēt, ja blakus ir vismaz viens cilvēks, kurš no sirds tic viņa spējām. Mana misija kā sociālajai mentorei ir nodrošināt šo atbalstu, ticību un drošo vidi, kurā cilvēks var apjaust un sākt realizēt savu potenciālu. 
+
+Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti ar tādām tēmām kā atkarība un līdzatkarība, seksuālā vardarbība, politiskie ieslodzītie, bijušo ieslodzīto resocializācija, ielu māksla, Austrumeiropas un Centrālāzijas studijas.
 
 
 ## Pieredze: 
