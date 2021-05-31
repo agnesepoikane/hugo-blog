@@ -17,9 +17,9 @@ Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti 
 
 ## Pieredze: 
 
-🔹2+ gadi koučingā un mentoringā
-
 🔹2+ gadi NVO sektorā (projektu vadība, administratīvais darbs, datu analītika)
+
+🔹3+ gadi koučingā un mentoringā
 
 🔹3+ gadi žurnālistikā
 
