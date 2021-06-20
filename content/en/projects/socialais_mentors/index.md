@@ -18,6 +18,6 @@ Sociālā mentora pamatuzdevumi ir:
 
 Sociālās mentores darbā pielietoju arī **koučinga** zināšanas, tādējādi palīdzot klientam izprast viņa patiesās vēlmes, ieraudzīt viņa rīcībā esošos resursus un izkristalizēt viņa nākotnes mērķus, kā arī izstrādāt skaidru un konkrētu plānu šo mērķu sasniegšanai.
 
-
+Sadarbība iespējama arī projektu ietvaros. 
 
 

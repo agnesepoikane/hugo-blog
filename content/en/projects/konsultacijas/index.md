@@ -1,5 +1,5 @@
 ---
-title: "Koučings sociālajām pārmaiņām"
+title: "Digitālais minimālisms un datu pratība"
 weight: 2
 resources:
     - src: pexels-free-creative-stuff-5052529.jpg
@@ -7,9 +7,12 @@ resources:
           weight: -100
 ---
 
-Individuālās koučinga sesijas sociālajiem uzņēmējiem, sociālajiem darbiniekiem, sociālajā sfērā nodarbinātajiem un citiem interesentiem. 
+Konsultācijas, lekcijas un satura veidošana par tādām tēmām kā:
 
-Sesijas cena: 30 EUR / 50 minūtes.
+- digitālais minimālisms
+- datu un informācijas pratība
+- domāšanas kļūdas
+
 
 Darba valodas: `latviešu`, `krievu`. 
 
