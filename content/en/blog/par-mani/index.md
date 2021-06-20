@@ -4,7 +4,7 @@ date: 2021-05-26
 #tags: ["parmani" "izglītība", "kursi", "socioloģija", "datuanalītika"]
 ---
 
-Kā **socioloģe un datu analītiķe** iesaistos projektos, kas saistīti ar sociālo problēmu risināšanu, analizēju digitālo platformu datus, kā arī sniedzu konsultācijas sociālajiem uzņēmumiem, NVO sektorā nodarbinātajiem un citiem interesentiem. 
+Kā **socioloģe un datu analītiķe** iesaistos projektos, kas saistīti ar sociālo problēmu risināšanu, analizēju digitālo platformu datus, kā arī sniedzu konsultācijas datu un informācijas pratības jautājumos. 
 
 Kā **sociālā mentore** esmu blakus un sniedzu nepieciešamo atbalstu cilvēkiem, kuri atgriežas sociālajā vidē pēc gūtās traumas, šķiršanās, piedzīvotās vardarbības vai ilgstošas sociālās izolētības (izciestā soda, ilgstošas slimības vai bezdarba).
 
@@ -15,15 +15,15 @@ Ticu, ka katrā cilvēkā mīt neierobežots potenciāls, ko viņš var realizē
 Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti ar tādām tēmām kā atkarība un līdzatkarība, seksuālā vardarbība, politiskie ieslodzītie, bijušo ieslodzīto resocializācija, ielu māksla, Austrumeiropas un Centrālāzijas studijas.
 
 
-## Pieredze: 
+## Profesionalitāte: 
 
-🔹2+ gadi NVO sektorā (projektu vadība, administratīvais darbs, datu analītika)
+🔹pēdējos 3+ gadus darbojos datu analītikas jomā, esmu ieguvusi datu analītiķes un datu zinātnieces kvalifikāciju (strādāju ar programmēšanas valodām `Python` un `SQL`). 
 
-🔹3+ gadi koučingā un mentoringā
+🔹3+ gadi mentoringā un koučingā
 
-🔹3+ gadi žurnālistikā
+🔹3+ gadu pieredze žurnālistikā (informācijas vākšanas, atlases, apstrādes un pasniegšanas procesu organizēšana un vadīšana, t.sk., intervēšana, interviju transkripcija, satura veidošana)
 
-🔹4+ gadi valsts pārvaldē (klientu vadība, administratīvais darbs)
+🔹3+ gadu pieredze valsts pārvaldē (klientu vadība, administratīvais darbs, t.sk., darbs ar dokumentu pārvaldības sistēmām un datu bāzēm)
 
 
 ## Sabiedriskās aktivitātes
