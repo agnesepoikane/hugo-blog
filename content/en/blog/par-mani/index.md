@@ -19,12 +19,11 @@ Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti 
 
 🔹pēdējos 3+ gadus darbojos datu analītikas jomā, esmu ieguvusi datu analītiķes un datu zinātnieces kvalifikāciju (strādāju ar programmēšanas valodām `Python` un `SQL`). 
 
-🔹3+ gadi mentoringā un koučingā
-
-🔹3+ gadu pieredze žurnālistikā (informācijas vākšanas, atlases, apstrādes un pasniegšanas procesu organizēšana un vadīšana, t.sk., intervēšana, interviju transkripcija, satura veidošana)
+🔹2+ gadi mentoringā un koučingā
 
 🔹3+ gadu pieredze valsts pārvaldē (klientu vadība, administratīvais darbs, t.sk., darbs ar dokumentu pārvaldības sistēmām un datu bāzēm)
 
+🔹4 gadu pieredze žurnālistikā (informācijas vākšanas, atlases, apstrādes un pasniegšanas procesu organizēšana un vadīšana, intervēšana, interviju transkripcija)
 
 ## Sabiedriskās aktivitātes
 
