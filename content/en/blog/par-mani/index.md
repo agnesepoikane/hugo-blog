@@ -12,7 +12,7 @@ Kā **sociālā mentore** esmu blakus un sniedzu nepieciešamo atbalstu cilvēki
 
 Ticu, ka katrā cilvēkā mīt neierobežots potenciāls, ko viņš var realizēt, ja blakus ir vismaz viens cilvēks, kurš no sirds tic viņa spējām. Mana misija kā sociālajai mentorei ir nodrošināt šo atbalstu, ticību un drošo vidi, kurā cilvēks var apjaust un sākt realizēt savu potenciālu. 
 
-Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti ar tādām tēmām kā atkarība un līdzatkarība, seksuālā vardarbība, politiskie ieslodzītie, bijušo ieslodzīto resocializācija, ielu māksla, Austrumeiropas un Centrālāzijas studijas.
+Vislielāko gandarījumu un piepildījuma sajūtu rodu projektos, kas saistīti ar tādām tēmām kā atkarība un līdzatkarība, seksuālā vardarbība, politiskie ieslodzītie un bijušo ieslodzīto resocializācija.
 
 
 ## Profesionalitāte: 
