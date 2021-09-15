@@ -5,12 +5,13 @@ weight: 8
 ---
 <span style="color: rgb(0, 184, 212);"></span>
 
-Esmu socioloģe, datu analītiķe un sociālā mentore jeb atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem.
+Esmu socioloģe un datu analītiķe, RSU doktora studiju programmas “Socioloģija” doktorante.
 
-Manas <span style="color: rgb(0, 184, 212);">akadēmiskās intereses</span> saistītas ar tādām tēmām kā literatūras socioloģija, klīniskā socioloģija, cietuma dzīve, autoritārie un totalitārie režīmi. <span style="color: rgb(0, 184, 212);">Profesionālās-</span> ar digitālo platformu lietotāju uzvedības analīzi un datos balstītu sociālo problēmu risināšanu.
+Manas <span style="color: rgb(0, 184, 212);">zinātniskās intereses</span> ir saistītas ar tādām tēmām kā sociālā atstumtība, cietuma dzīve, resocializācija, ielu māksla un literatūras socioloģija. <span style="color: rgb(0, 184, 212);">Profesionālās-</span> ar digitālo platformu lietotāju uzvedības analīzi un datos balstītu sociālo problēmu risināšanu.
 
-<span style="color: rgb(0, 184, 212);">Izglītība:</span> Socioloģija (2011, bakalaura grāds), Starpkultūru attiecības (2013, maģistra grāds), Publiskā pārvalde (2017, maģistra grāds). <span style="color: rgb(0, 184, 212);">Papildus izglītība:</span> datu analītika (2020), datu zinātne (2021).
+<span style="color: rgb(0, 184, 212);">Izglītība:</span> Socioloģija (no 2021, doktora līmeņa studijas),  Publiskā pārvalde (2017), Starpkultūru attiecības (2013),  Socioloģija (2011). Papildus izglītība: datu zinātne (2021), datu analītika (2020).
 
-Brīvajā laikā [lasu](https://www.goodreads.com/user/show/22833723-agnese), ceļoju, apgūstu arābu valodu un [fotografēju ielu mākslu](https://www.instagram.com/agnesetravels/). 
+Brīvajā laikā [lasu](https://www.goodreads.com/user/show/22833723-agnese), ceļoju, apgūstu arābu valodu, [fotografēju ielu mākslu](https://www.instagram.com/agnesetravels/) un esmu sociālā mentore jeb atbalsta persona sociālās atstumtības riskam pakļauto grupu pārstāvjiem. 
 
 [Uzzināt vairāk.](https://agnesepoikane.com/blog/par-mani/)
+
