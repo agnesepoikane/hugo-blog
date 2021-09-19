@@ -35,7 +35,7 @@ date: 2021-05-26
 
 ## Ar mani sadarbojas: 
 
-![Sober Soul](sobersoul.jpg "title-1") ![LSUA](LSUA-logo.png "title-2")
+![Sober Soul](SoberSoul.jpg "title-1") ![LSUA](lsua.png "title-2")
 
 
 
