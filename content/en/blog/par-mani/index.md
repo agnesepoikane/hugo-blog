@@ -35,7 +35,9 @@ date: 2021-05-26
 
 ## Ar mani sadarbojas: 
 
-![Sober Soul](SoberSoul.jpg "title-1") ![LSUA](lsua.png "title-2")
+ | 
+-------|-----------------------------------
+<img src="SoberSoul.jpg" alt="SoberSoul" width="200"/> | <img src="lsua.png" alt="lsua" width="200"/>
 
 
 
