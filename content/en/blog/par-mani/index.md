@@ -37,8 +37,7 @@ date: 2021-05-26
 
  | 
 -------|-----------------------------------
-<img src="SoberSoul.jpg" alt="SoberSoul" width="200"/> | <img src="lsua.png" alt="lsua" width="200"/>
-
+[<img src="SoberSoul.jpg" width="250"/>](SoberSoul.jpg) | [<img src="lsua.png" width="250"/>](lsua.png)
 
 
 
