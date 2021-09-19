@@ -35,7 +35,7 @@ date: 2021-05-26
 
 ## Ar mani sadarbojas: 
 
-[<img src="SoberSoul.jpg" width="300"/>](SoberSoul.jpg) | [<img src="lsua.png" width="250"/>](lsua.png) | <img src="Mentor.jpg" width="300"/>](Mentor.jpg)
+[<img src="SoberSoul.jpg" width="300"/>](SoberSoul.jpg) | [<img src="lsua.png" width="300"/>](lsua.png) | [<img src="Mentor.jpg" width="300"/>](Mentor.jpg)
 -------|-----------------------------------|------------------
   
 
